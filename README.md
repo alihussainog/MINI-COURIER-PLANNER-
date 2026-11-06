@@ -33,7 +33,7 @@ The system prioritizes parcels, selects the most valuable load within the van's 
 Clone the repository:
 
 ```bash
-git clone https://github.com/yashverma886622-dot/Mini-Courier-Planner.git
+git clone https://github.com/alihussainog/MINI-COURIER-PLANNER-
 cd Mini-Courier-Planner
 ```
 
@@ -191,7 +191,7 @@ Mini-Courier-Planner/
 
 ## GitHub Repository
 
-[Mini-Courier Planner – GitHub](https://github.com/yashverma886622-dot/Mini-Courier-Planner)
+[Mini-Courier Planner – GitHub]https://github.com/alihussainog/MINI-COURIER-PLANNER-
 
 ## Conclusion
 
